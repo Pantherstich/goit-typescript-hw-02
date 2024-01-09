@@ -4,4 +4,4 @@
 */
 
 let union;
-let literal;
+let literal: "enable" | "disable";
